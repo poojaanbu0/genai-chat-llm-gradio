@@ -30,7 +30,7 @@ Building a user-friendly application that allows seamless interaction with a lar
 - Optionally deploy it to the cloud for broader accessibility.
 
 ### PROGRAM:
-```
+```python
 import gradio as gr
 from transformers import pipeline
 
